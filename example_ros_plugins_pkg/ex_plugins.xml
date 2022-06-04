@@ -1,0 +1,8 @@
+<library path="lib/libex_plugins">
+  <class type="ex_plugins::pluginFirstClass" base_class_type="ex_plugin_base::pluginBaseClass">
+    <description>This is the first example plugin.</description>
+  </class>
+  <class type="ex_plugins::pluginSecondClass" base_class_type="ex_plugin_base::pluginBaseClass">
+    <description>This is the second example plugin.</description>
+  </class>
+</library>

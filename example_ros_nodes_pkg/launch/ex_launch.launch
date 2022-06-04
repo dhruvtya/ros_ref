@@ -1,0 +1,9 @@
+<launch>
+  
+  <!--include file="$(find some_package_for_other_launch_files)/path"/-->
+
+  <node name="ex_rosnode_cpp_node" pkg="example_ros_nodes_pkg" type="ex_rosnode_cpp_node" output="screen"/>
+
+  <rosparam file="$(find example_ros_nodes_pkg)/param/example_params.yaml"/>
+
+</launch>

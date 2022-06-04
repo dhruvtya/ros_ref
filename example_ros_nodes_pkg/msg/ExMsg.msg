@@ -1,0 +1,4 @@
+string input_string
+int64 string_len
+string first_letter
+string last_letter

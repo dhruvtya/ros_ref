@@ -1,0 +1,5 @@
+ex_integer_parameter: 3
+ex_string_parameter: "thisIsAString"
+ex_vector_parameter: [0.10, 0.20, 0.30]
+ex_dyn_parameter_1: 0.30
+ex_dyn_parameter_2: false
